@@ -13,7 +13,7 @@
 </div>
 <br>
 
-## **⚽️ STATS**
+## **⚽️ COMMIT**
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zito-git&hide=contribs,prs&show_icons=true&theme=테마&count_private=true) -->
 
