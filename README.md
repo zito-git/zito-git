@@ -1,4 +1,4 @@
-## **👋 Hello, I'm Zito**
+## **👋 Hello**
 
 ![easyme](img/man.gif)
 
