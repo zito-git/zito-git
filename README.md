@@ -2,7 +2,7 @@
 
 ![easyme](img/man.gif)
 
-## **📚 STACKS**
+<!-- ## **📚 STACKS**
 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 </div>
-<br>
+<br> -->
 
 ## **⚽️ INFO**
 
@@ -23,8 +23,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zito-git&theme=dark)](https://git.io/streak-stats)
 
-## **💬 LANGUAGES**
+<!-- ## **💬 LANGUAGES**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zito-git)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zito-git)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=000&random=false&width=435&lines=zitozito)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=000&random=false&width=435&lines=zito-git)](https://git.io/typing-svg)
